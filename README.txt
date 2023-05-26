@@ -17,3 +17,6 @@ Things to do before running:
 -Type some characters into text field, and get cities that includes your character string in their names.
 
 -If search button is pressed without nothing typed, then all cities will be shown on table.
+
+
+----------------- INSERT, UPDATE, DELETE AND SORT BUTTONS WILL BE ADDED ON THE NEXT UPDATE -----------------
